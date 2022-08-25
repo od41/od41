@@ -23,7 +23,7 @@ I'm currently learning about dApps, defi, NFTs, crypto, web3 and the entire bloc
 
 ### 🤔 FYI
 
-- ⚡ Fun fact: I read (almost anything, even encyclopaedias) to relax.
+- ⚡ Fun fact: I have a sweet tooth & have a weakness for chocolates.
 - 👯 I’m looking to collaborate on anything blockchain, web3, dApp and defi related.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/odafe-aror)
 
