@@ -1,16 +1,14 @@
 ### Yo!
 
-### I'm Odafe, I love to tinker and build cool stuff, mostly for the internet.
+### Odafe is a developer, web3 designer, and creative entrepreneur who loves to tinker and build things. I'm passionate about using technology to make a difference in the world and strive to create products that are both useful and beautiful. My mission is to empower people everywhere with the tools they need to build the future they want to see.
 
-I'm currently learning about dApps, defi, NFTs, crypto, web3 and the entire blockchain metaverse. 
+I'm currently building [Metaport](https://themetaport.co) & learning about building web3 community & ecosystems. 
 
-### Code: 
+### Tech Stack: 
 
-- HTML+CSS & JavaScript
-- React
-- Vue
-- Solidity
-- Hardhat
+- JavaScript / React / Vue
+- Solidity / Hardhat / Truffle
+- Python/Django
 - Truffle.
 
 ## 🦸🏻‍♂️ Fun Projects
