@@ -1,11 +1,11 @@
 ### Yo!
 
-I'm currently building [Mowblox](https://mowblox.com). It will be the gateway to web3 for millions.
+Currently building builders @ [Mowblox](https://mowblox.com) and frontend dev tools @ [Appblocks](https://appblocks.xyz)
 
 ### Favourite tools: 
 
-- Typescript / React / Next
-- Solidity / Hardhat 
+- Typescript / React / NextJS
+- Solidity + EVM chains 
 - Python/Django
 
 
