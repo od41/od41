@@ -1,32 +1,31 @@
 ### Yo!
 
-I'm a self taught product designer, software engineer & founder that specialises in building: 
-* decentralized applications
-* user interfaces
-* and smart contracts
+I'm a kickass designer & engineer. I'm currently building applications at the frontier of web3.
 
-### Learning about
-* Zero knowledge and it's applications
-* Rust
-* Polkadot & Substrate
-* DeFi (Automated Market Makers)
+### Exploring
+* dApp privacy with zk execution
+* Lil bit of zkML
+* Stablecoins in DeFi
 
 ### Previously
 - Co-founder & CTO @ [Mowblox](https://mowblox.com).
 - MEST Africa Alum 2022
-- Built many many side-projects
+- Worked with brands such as ART X Lagos, Lagos Fashion Week, ipNX Nigeria, 
 
 
 ### Side projects
-
-- Disappearing group chats on Polkadot WIP [Whisper](https://blue-whisper.vercel.app)
+- Stability pools and perp. trades protection on Canto (won 2nd place in Canto Hacks S2) [Keeper](https://keeper-ui.vercel.app/)
+- WeTransfer for Degens, send files securely and get paid on [@NetherSync](https://nethersync.xyz)
+- Disappearing group chats on Polkadot [Whisper](https://blue-whisper.vercel.app)
 - Self-custody wallet extension WIP [Drops](https://github.com/od41/tack)
 - [Appblocks](https://appblocks.xyz): help frontend devs make beautiful UIs faster.
 
 
 ### Favourite tools: 
 
-- Typescript, Solidity, Rust & Python
+- Languages: Typescript, Solidity, Rust & Python
+- Framerworks: NextJS, Node
+- Chains: EVM, Substrate
 
 
 <!--
