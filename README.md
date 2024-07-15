@@ -1,11 +1,12 @@
 ### Yo!
 
-I'm a kickass designer & engineer. I'm currently building applications at the frontier of web3.
+I'm a kickass designer & engineer. I'm currently researching & building frontier web3 applications.
 
-### Exploring
-* dApp privacy with zk execution
-* Lil bit of zkML
-* Stablecoins in DeFi
+### Focus areas
+* New media applications
+* Sharing & collab tools on-chain
+* Trustless ML computation zk + ML
+* On-chain commerce, stablecoins in DeFi
 
 ### Previously
 - Co-founder & CTO @ [Mowblox](https://mowblox.com).
@@ -13,18 +14,19 @@ I'm a kickass designer & engineer. I'm currently building applications at the fr
 - Worked with brands such as ART X Lagos, Lagos Fashion Week, ipNX Nigeria, 
 
 
-### Side projects
+### Projects
 - Stability pools and perp. trades protection on Canto (won 2nd place in Canto Hacks S2) [Keeper](https://keeper-ui.vercel.app/)
-- WeTransfer for Degens, send files securely and get paid on [@NetherSync](https://nethersync.xyz)
+- Escrow file transfer for Degens, securely send files(like WeTransfer) and get paid on [NetherSync](https://nethersync.xyz)
 - Disappearing group chats on Polkadot [Whisper](https://blue-whisper.vercel.app)
 - Self-custody wallet extension WIP [Drops](https://github.com/od41/tack)
+- On-chain digital book publishing, distribution & reading [Moka](https://github.com/od41/tack)
 - [Appblocks](https://appblocks.xyz): help frontend devs make beautiful UIs faster.
 
 
 ### Favourite tools: 
 
 - Languages: Typescript, Solidity, Rust & Python
-- Framerworks: NextJS, Node
+- Frameworks: NextJS, Node
 - Chains: EVM, Substrate
 
 
