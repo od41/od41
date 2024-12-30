@@ -1,17 +1,14 @@
-### Yo!
+### Hello!
 
 I'm a kickass designer & engineer. I'm currently researching & building frontier web3 applications.
 
 ### Focus areas
-* New media applications
-* Sharing & collab tools on-chain
-* Trustless ML computation zk + ML
-* On-chain commerce, stablecoins in DeFi
+I'm building in a combination of
+* Trustless sharing & collab tools with zk
+* Stablecoins
 
-### Previously
-- Co-founder & CTO @ [Mowblox](https://mowblox.com).
-- MEST Africa Alum 2022
-- Worked with brands such as ART X Lagos, Lagos Fashion Week, ipNX Nigeria, 
+### Currently
+- Currently building [Nethersync](https://nethersync.xyz)
 
 
 ### Projects
@@ -27,7 +24,7 @@ I'm a kickass designer & engineer. I'm currently researching & building frontier
 
 - Languages: Typescript, Solidity, Rust & Python
 - Frameworks: NextJS, Node
-- Chains: EVM, Substrate
+- Chains: EVM, Substrate, Stellar & Starknet
 
 
 <!--
