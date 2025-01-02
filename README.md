@@ -20,12 +20,6 @@ I'm building in a combination of
 - [Appblocks](https://appblocks.xyz): help frontend devs make beautiful UIs faster.
 
 
-### Favourite tools: 
-
-- Languages: Typescript, Solidity, Rust & Python
-- Frameworks: NextJS, Node
-- Chains: EVM, Substrate, Stellar & Starknet
-
 
 <!--
 **od41/od41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
