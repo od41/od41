@@ -8,7 +8,7 @@ I'm building in a combination of
 * Stablecoins
 
 ### Currently
-- Currently building [Nethersync](https://nethersync.xyz)
+- [Nethersync](https://nethersync.xyz)
 
 
 ### Projects
