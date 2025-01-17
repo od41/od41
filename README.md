@@ -3,7 +3,7 @@
 I'm a kickass designer & engineer. I'm currently researching & building frontier web3 applications.
 
 ### Focus areas
-I'm building in a combination of
+
 * Trustless sharing & collab tools with zk
 * Stablecoins
 
